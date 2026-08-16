@@ -1,0 +1,6 @@
+__pycache__/
+_downloads/
+.wkmod-state.json
+loader.config.json
+*.pyc
+.pytest_cache/

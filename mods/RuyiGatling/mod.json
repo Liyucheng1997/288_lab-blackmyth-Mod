@@ -1,0 +1,12 @@
+{
+  "name": "RuyiGatling",
+  "display_name": "如意加特林",
+  "version": "0.1.0",
+  "type": "lua",
+  "enabled": true,
+  "author": "liyucheng",
+  "description": "把猴子的棍子变成如意加特林: F7 开关, F8 持续扫射, F6 换弹药, 中键点射, F9 诊断。",
+  "requires": [
+    "ue4ss"
+  ]
+}
